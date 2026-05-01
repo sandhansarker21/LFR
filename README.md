@@ -14,8 +14,6 @@
 - [Algorithm Explained](#algorithm-explained)
 - [Getting Started](#getting-started)
 - [Tuning the PD Controller](#tuning-the-pd-controller)
-- [Author](#author)
-- [License](#license)
 
 ---
 
