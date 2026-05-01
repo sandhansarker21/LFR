@@ -265,17 +265,6 @@ lineFollow(readLine(), 100, 200, 0, 0.05, 0.8, 0);
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-Department of [Your Department]  
-[Your University Name]  
-[your.email@university.edu]  
-[GitHub Profile](https://github.com/your-username)
-
----
-
-## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).  
 Feel free to use, modify, and build upon this work — just give credit where it's due.
